@@ -1,4 +1,4 @@
-CREATE DATABSE HelloWorldMessage;
+CREATE DATABASE HelloWorldMessage;
 USE HelloWorldMessage;
 
 CREATE TABLE messages (
